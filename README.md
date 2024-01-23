@@ -1,5 +1,7 @@
 # Spatial Anaglyph 🕶️
 
+Converts spatial videos to red-cyan anaglyph videos.
+
 ```bash
 swift run SpatialAnaglyph path/to/spatial-video.mov
 ```
